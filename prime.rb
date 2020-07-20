@@ -1,5 +1,5 @@
-def prime?(array)
-  if value <= 1 || value == 0 || value == 1 
+def prime?(2)
+  if 2 <= 1 || 2 == 0 || 2 == 1 
     return false
     elsif
     (2.. value - 1).each do |i|
